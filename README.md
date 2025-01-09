@@ -1,1 +1,2 @@
-# Sales-and-Marketing-Optimization-
+# Sales-Marketing-Optimization-
+Sales &amp; Marketing Optimization for smart phones
